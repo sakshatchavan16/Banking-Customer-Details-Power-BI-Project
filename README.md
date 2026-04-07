@@ -43,7 +43,7 @@ This Power BI dashboard provides a comprehensive analysis of bank customers, foc
 
 ## 📸 Dashboard Screenshots
 
-### 📌 Executive Overview
+### 📌 Bank Executive Overview
 ![Executive Dashboard](Bank Executive Overview Dashboard.png)
 
 ### 📌 Customer & Account Analysis
