@@ -50,7 +50,7 @@ This Power BI dashboard provides a comprehensive analysis of bank customers, foc
 ![image alt](https://github.com/sakshatchavan16/Power_BI-Project/blob/319e9ad08ae6b286a7fa308ee274b5e8efbfaa69/Customer%20%26%20Account%20Analysis%20Dashboard.png)
 
 ### 📌 Loan & Transaction Analysis
-![image alt]
+![image alt](https://github.com/sakshatchavan16/Power_BI-Project/blob/f13c2aed54653e0eb3aae936a07b85e1086eb77e/Loan%20%26%20Transaction%20Analysis%20Dashboard.png)
 
 ---
 
